@@ -1,0 +1,1 @@
+A Python tool to detect and mark faces in images. Uses OpenCV’s Haar cascade for face detection and Pillow to draw rectangles around faces. Supports opening images via file dialog, visualizing detected faces, and saving the annotated images in multiple formats. Provides both a terminal-based version and a Tkinter GUI
